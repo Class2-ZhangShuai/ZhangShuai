@@ -1,0 +1,21 @@
+body{
+	font: 12px Arial; line-height: 2em; color: #727272;
+}
+a{
+	text-decoration: none; color: #ffffff; 
+}
+a:hover {
+	color: #b9f605;
+}
+.menu{
+	color: #b9f605; font-weight: bold; font-size: 14px;
+}
+a:link{
+	color: #727272;
+}
+a:hover{
+	text-decoration:underline;
+}
+.special{
+	color: #fdb306;
+}
