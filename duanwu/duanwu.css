@@ -1,0 +1,49 @@
+*{padding: 0px; margin: 0px; }
+body{font: 12px/24px "宋体"; background-image: url(images/background.jpg)}
+ul{list-style: none;}
+a{text-decoration: none; color: #333;}
+.clear{clear: left;}
+.logo{width: 1000px; margin:0px auto; }
+.logo img{width: 80px; height: auto;}
+.se{float: right; margin-top:30px; }
+.menu{width: 100%; height: 40px; background-color: #339933}
+.menu ul{width: 1000px; margin: 0px auto;}
+.menu ul li{float: left; width: 120px; line-height: 40px;}
+.menu ul a{font-size: 16px; color: #fff;}
+.banner,.banner img{width: 100%; height: auto;}
+.content{width: 1000px; margin: 0px auto;}
+.c_left{width: 288px; height: 298px; float: left; border: 1px solid #000;}
+
+.clt1{width: 250px; height: 48px; margin: auto; text-align: center; }
+div.clt1 h2{text-align: center; color: #339933; line-height: 48px;}
+.clt2{width: 250px; height: 220px;  margin: auto; }
+div.clt2 ul{font-size: 13px;}
+a.item1:link{text-decoration: none; color: #663300;}
+a.item1:hover{text-decoration: underline; color: #663300;}
+.clt3{width: 250px;  margin: auto;}
+.clt3-1{font-size: 13px; color: #663300; width: 56px; float: right; }
+
+
+
+
+
+
+
+
+
+.c_right{width: 708px; height:298px; float: left; border: 1px solid #000;}
+.qingchu{clear: both;}
+div.c_right img{width: 359px; height: 270px; margin: 2px;}
+.crt1{width: 363px; height: 298px;}
+div.c_right div{width: 363px; height: 16px; font-weight: bold; text-align: center; line-height: 16px;}
+.crt2{width: 300px; height: 298px; float: right;}
+div.crt2 p{width: 250px; font-size: 17px; font-weight: normal; text-indent: 2em; text-align: left ;margin: auto; }
+
+
+
+
+
+
+.list{width: 1000px; margin: 0px auto; }
+.list_img{width: 230px; height: 300px; float: left; margin: 10px;}
+.footer{height: 100px; background-color: #666; color: #aaa; text-align: center; padding-top: 30px;}

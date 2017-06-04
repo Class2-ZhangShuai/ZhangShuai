@@ -1,0 +1,33 @@
+.imgage
+{
+	float: left;
+	font-size: 14px;
+	width: 208px;
+	height: 190px;
+	border: 1px solid #999999;
+	margin: 1px;
+	opacity: 0.5;
+}
+div.imgage:hover
+{
+	opacity: 1;
+}
+div.imgage div
+{
+	width: 200px;
+	height: 14px;
+	text-align: center;
+	margin: auto;
+}
+div.imgage img
+{
+	display: inline;
+	margin: 3px;
+	border: 1px solid #bebebe;
+	width: 200px;
+	height: 160px;
+}
+div.imgage a:hover img
+{
+	border: 1px solid #333333;
+}
