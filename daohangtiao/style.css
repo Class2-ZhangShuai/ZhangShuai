@@ -1,0 +1,6 @@
+div{width: 1020px; height: 60px; background-image: url(images/menu_bg.png); margin: auto; background-size: 1020px 60px; back}
+ul{list-style:none; margin: auto;}
+li{float: left; height: 44px; margin-top:8px;}
+a:link{display: block; font:16px '黑体'; color: #000; text-decoration: none; text-align: center; padding-top: 10px; z-index: 3; overflow: visible;}
+a:hover{display: block; font:16px '黑体'; color: #fff; text-decoration: none; text-align: center; padding-top: 12px; padding-bottom: 15px; background: url(images/menu_bg1.png) center center; z-index: 3; overflow: visible;}
+img{float: left; margin-top: 13px; z-index: 1;}
