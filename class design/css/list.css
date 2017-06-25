@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+/*通用设置*/
+*{
+	margin:0px auto;
+	padding:0px;
+	font-size:14px;
+	list-style:none;
+	font-family: 宋体;
+	color:#522a06;
+}
+
+img{border:0px;}
+
+body{
+	padding: 0px;
+	margin: 0px;
+	background:url(../images/bodybg.jpg);
+	 background-size: 147.5px 70px;
+}
+
+a{color:#522a06;text-decoration:none;}
+
+a:hover{text-decoration:underline;}
+
+li{
+	list-style:none;
+	margin:0px;
+	padding:0px;
+}
+
+#header{height: 232px; background-image: url(../images/h_bg.jpg); background-position:top center; background-repeat: no-repeat; background-size: 100%; 	}
+#logo{width: 100%; height: 190px; background-position: center; float: left;}
+#logo .user{margin-top: 20px;}
+#logo a{color: #fff; font-weight: bold; font-size: 14px; }
+#logo span{color: #fff; font-weight: bold; font-size: 14px; }
+#logo .img1{display: block; width: 150px; height: 150px; margin-top: 26px; margin-left: 175px; float: left;}
+#logo .img2{display: block; width: 650px; margin-top: 56px; margin-left: 125px; float: left;}
+
+#header .nav_search{line-height: 40px; margin-top: px}
+.input_1{width: 140px; height: 19px; background-color: #f8f5ee; }
+.input_2{width: 44px; height: 21px; background-color: #000; color: #fff; border: 1px solid #f8f5ee;}
+
+
+#nav{width: 100%; height: 40px; background-image: url(../images/nav.png); clear: both; background-size: 100% 40px;}
+#nav #nav_body{width: 1000px; margin: auto; }
+#nav #nav_content{width: 1000px; font-weight: bold; color: #fff; }
+#nav #nav_content a{display: block; color:#FFF; width:111px; height: 40px; line-height:40px; font-weight:bold; text-align:center; font-size: 16px; float: left;}
+#nav #nav_content a:hover{text-decoration:none; background-image: url(../images/a_bg1.png); background-size: 100% 40px;}
+
+#content{width: 1000px;}
+#content .mbx{width: 1000px; height: 40px;}
+#content .mbx span{height: 40px; padding:14px 40px; line-height: 40px;}
+
+#content .lefter{width: 200px; float: left; margin-left: 5px; margin-right: 20px;}
+#content .lefter .peixun{width: 200px; background-color: #ffe;border: 1px solid #b79200;margin-bottom: 20px;}
+#content .lefter .peixun .ti{margin-top: 10px; width: 200px;}
+#content .lefter .peixun .cp{display: block; width: 180px; margin-left: 10px;}
+#content .lefter .peixun p{margin: 3px auto; text-align: center;}
+#content .lefter span{position: relative; left: 165px; margin: 6px;}
+
+#content .righter{float:left; width:760px; margin-bottom: 10px;}
+#content .righter h1{height:45px; background:#ffe; line-height:45px; vertical-align:middle; padding-left:5px; font-size:18px; font-weight:bold; margin-bottom:5px; border: 1px solid #b79200;}
+#content .righter ul{padding-left:20px;}
+#content .righter ul li{height:30px;font-size:14px;list-style:url(../images/pot.gif) ;*padding-top:8px;*height:22px;}
+#content .righter ul li span{float:right;color:#8b6544;margin-right:5px;*margin-top:-18px}
+
+#content .righter .page{text-align: center; margin-top: 10px;}
+#content .righter .page a{border: 1px solid #b79200; background-color: #ffe; padding: 5px 10px; }
+#content .righter .page a:hover{text-decoration: none;}
+#content .righter .page a:visited{border: 1px solid #c9baa5; font-weight: bold;}
+#content .righter .page .v{border: none; background-color: unset;}
+#content .righter .page .vv{border: none; background-color: unset; font-weight: bold;}
+
+#footer{width: 1000px; height: 156px; background-color: #992200; padding-top: 5px; clear: both;}
+#footer .foot_content{width:510px; color: #fff; font-weight: bold;}
+#footer .foot_content span{font-weight: bold; color: #fff;}
+#footer .foot_content a{font-weight: bold; color: #fff;}
+#footer hr{ width: 600px; height: 1px; margin-top: 12px; background-color: #fff; border: none;}
+#footer p{text-align: center; margin-top: 15px; color: #fff;}

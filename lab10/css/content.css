@@ -56,6 +56,8 @@ a #shouye{text-decoration: none; color: #f9f603;}
 #content .lefter .hy{height:40px; line-height:40px; margin-top:10px; font-size:13px;}
 #content .lefter .hy a{ margin-right:40px; color:#844004; font-size:13px;}
 
+#content .lefter textarea{width: 660px; height: 200px;}
+
 
 #content .righter{width: 280px; float: left; margin-left: 16px;}
 #content .righter .up{border:1px solid #c9baa5; background-image:url(../images/bg.png); margin-bottom:20px;}
